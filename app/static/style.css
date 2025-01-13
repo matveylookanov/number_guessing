@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background: #f4f4f4;
+}
+
+h1 {
+    color: #333;
+}
+
+form {
+    margin-top: 20px;
+}
+
+input {
+    padding: 10px;
+    font-size: 16px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+p {
+    font-size: 18px;
+    color: #333;
+}
